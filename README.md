@@ -1,4 +1,4 @@
-# Payment Gateway Integration in Laravel
+# Razorpay Payment Gateway Integration in Laravel
 
 This project demonstrates how to integrate a payment gateway into a Laravel application. It provides a simple implementation of an online payment system where users can select products and complete payments securely.
 
